@@ -1,10 +1,16 @@
 {
   "seattle": [
-
-    { "id": 1,
-    "name": "Rob Roy",
-    "imageURL": "https://fastly.4sqi.net/img/general/600x600/MfuBZ5XEuCBKUO3VftnUJtJH6XMtuQAB-MUDTRACDiY.jpg",
-    "description": "A must try cocktail bar in Seattle. Unique drinks that include a gunpowder cocktail with real gunpowder!"
-  }
+    {
+      "id": 1,
+      "name": "Rob Roy",
+      "imageURL": "https://fastly.4sqi.net/img/general/600x600/MfuBZ5XEuCBKUO3VftnUJtJH6XMtuQAB-MUDTRACDiY.jpg",
+      "description": "A must try cocktail bar in Seattle. Unique drinks that include a gunpowder cocktail with real gunpowder!"
+    },
+    {
+      "id": 2,
+      "name": "Due Cucina",
+      "imageURL": "https://duecucina.com/wp-content/uploads/2019/07/section-2.jpg",
+      "description": "Small authentic Italian restaurant is located in Capital Hill area. This pasta joint is not only affordable (each plate less than $14 base) but the fresh pasta is handmade daily. Other popular handmade pasta establishments in Seattle are not as affordable by far. This is a must try for any traveler on a budget or pasta lover in general."
+    }
   ]
-  }
+}

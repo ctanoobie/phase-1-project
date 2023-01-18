@@ -4,13 +4,31 @@
       "id": 1,
       "name": "Rob Roy",
       "imageURL": "https://fastly.4sqi.net/img/general/600x600/MfuBZ5XEuCBKUO3VftnUJtJH6XMtuQAB-MUDTRACDiY.jpg",
-      "description": "A must try cocktail bar in Seattle. Unique drinks that include a gunpowder cocktail with real gunpowder!"
+      "description": "A must try cocktail bar in Seattle. Unique drinks that includes a Gunpowder Punch with real gunpowder!"
     },
     {
       "id": 2,
       "name": "Due Cucina",
       "imageURL": "https://duecucina.com/wp-content/uploads/2019/07/section-2.jpg",
       "description": "Small authentic Italian restaurant is located in Capital Hill area. This pasta joint is not only affordable (each plate less than $14 base) but the fresh pasta is handmade daily. Other popular handmade pasta establishments in Seattle are not as affordable by far. This is a must try for any traveler on a budget or pasta lover in general."
+    },
+    {
+      "id": 3,
+      "name": "Chihuly's Winter Brilliance",
+      "imageURL": "https://upload.travelawaits.com/ta/uploads/2022/12/fire-and-ice-glass-1024x768.jpeg",
+      "description": "Must see exhibit in Seattle launched November 17th until February 28th, 2023. Winter Brillance is Dale Chihuly's brand-new original light and music immersive installation. It is inspired by fire and ice featuring forms such as icicle clusters, chandeliers, towers, and reeds."
+    },
+    {
+      "id": 4,
+      "name": "Columbia Tower's Observatory & Bar",
+      "imageURL": "http://starvingphotographer.smugmug.com/All-Photographs-1/All-Photographs/27D6959-Edit-Edit/891346298_QABWP-L.jpg",
+      "description": "The Sky View Observatory is on the 73rd floor of Columbia Center. Most vistors flock to the iconic Space Needle, towering at 605-ft. tall. However, Columbia Tower, completed in 1985, offers the tallest public viewing area in the Pacific Northwest at 902-ft. tall. It is a 360 panoramic view of Mt. Rainier, Bellevue, the Cascades, Mt. Baker, Elliott Bay, Olympic Mountains, Space Needle, and city of Seattle. Enjoy a cocktail and the lovely sunset!"
+    },
+    {
+      "id": 5,
+      "name": "Teatro ZinZanni",
+      "imageURL": "https://images.seattletimes.com/wp-content/uploads/2022/06/125810.jpg?d=1560x1068",
+      "description": "Teatro Zinzanni was once described as 'the Moulin Rouge meets Cirque du Soleil.' It is a 4-course dinner theatre show that's a blend of European cirus, cabaret, and American vaudeville performed in a Belgian mirror tent. Make sure to go early before showtime to enjoy some dress up photos or some cocktails at the bar. Contrary to one may believe, the food is pretty good! So, bring your appetite as well as your sense of wonder. You never know what to expect at Teatro Zinzanni. You have to try this unique experience at least once while in town!"
     }
   ]
 }
